@@ -1,0 +1,401 @@
+﻿State,State Name,Year,Month,Indicator,Data Value,Predicted Value,Percent Complete,Percent Pending Investigation,Footnote
+CT,CT,2015,January,Cocaine (T40.5),118,123,100,0.009926872,
+CT,CT,2015,February,Cocaine (T40.5),124,129,100,0.009885004,
+CT,CT,2015,March,Cocaine (T40.5),124,129,100,0.009837033,
+CT,CT,2015,April,Cocaine (T40.5),125,130,100,0.009858368,
+CT,CT,2015,May,Cocaine (T40.5),124,129,100,0.0131419,
+CT,CT,2015,June,Cocaine (T40.5),126,131,100,0.013111315,
+CT,CT,2015,July,Cocaine (T40.5),133,138,100,0.016333464,
+CT,CT,2015,August,Cocaine (T40.5),134,139,100,0.016367148,
+CT,CT,2015,September,Cocaine (T40.5),139,144,100,0.019636078,
+CT,CT,2015,October,Cocaine (T40.5),155,161,100,0.016331863,
+CT,CT,2015,November,Cocaine (T40.5),164,170,100,0.019511561,
+CT,CT,2015,December,Cocaine (T40.5),168,174,100,0.016339869,
+CT,CT,2016,January,Cocaine (T40.5),171,177,100,0.0164647,
+CT,CT,2016,February,Cocaine (T40.5),177,184,100,0.016539314,
+CT,CT,2016,March,Cocaine (T40.5),179,186,100,0.01657715,
+CT,CT,2016,April,Cocaine (T40.5),186,193,100,0.016557388,
+CT,CT,2016,May,Cocaine (T40.5),195,202,100,0.01324591,
+CT,CT,2016,June,Cocaine (T40.5),197,204,100,0.016562873,
+CT,CT,2016,July,Cocaine (T40.5),201,208,100,0.013291686,
+CT,CT,2016,August,Cocaine (T40.5),211,219,100,0.016580448,
+CT,CT,2016,September,Cocaine (T40.5),223,231,100,0.016617921,
+CT,CT,2016,October,Cocaine (T40.5),223,231,100,0.016580998,
+CT,CT,2016,November,Cocaine (T40.5),224,232,100,0.016504918,
+CT,CT,2016,December,Cocaine (T40.5),237,246,100,0.026108808,
+CT,CT,2017,January,Cocaine (T40.5),250,257,100,0.025945385,Underreported due to incomplete data
+CT,CT,2017,February,Cocaine (T40.5),247,255,100,0.025787319,Underreported due to incomplete data
+CT,CT,2017,March,Cocaine (T40.5),259,267,100,0.0257566,Underreported due to incomplete data
+CT,CT,2017,April,Cocaine (T40.5),267,277,100,0.025720165,Underreported due to incomplete data
+CT,CT,2017,May,Cocaine (T40.5),280,291,100,0.025709419,Underreported due to incomplete data
+CT,CT,2017,June,Cocaine (T40.5),278,289,100,0.0224,Underreported due to incomplete data
+CT,CT,2017,July,Cocaine (T40.5),286,296,100,0.022330686,Underreported due to incomplete data
+CT,CT,2017,August,Cocaine (T40.5),294,304,100,0.019122896,Underreported due to incomplete data
+CT,CT,2017,September,Cocaine (T40.5),289,299,100,0.015850372,Underreported due to incomplete data
+CT,CT,2017,October,Cocaine (T40.5),285,296,100,0.015866468,Underreported due to incomplete data
+CT,CT,2017,November,Cocaine (T40.5),285,296,100,0.019091864,Underreported due to incomplete data
+CT,CT,2017,December,Cocaine (T40.5),290,301,100,0.012680298,Underreported due to incomplete data
+CT,CT,2018,January,Cocaine (T40.5),280,289,100,0.081897502,Underreported due to incomplete data
+CT,CT,2018,February,Cocaine (T40.5),280,290,100,0.158378207,Underreported due to incomplete data
+CT,CT,2018,March,Cocaine (T40.5),280,290,100,0.196650596,Underreported due to incomplete data
+CT,CT,2018,April,Cocaine (T40.5),280,293,100,0.231364097,Underreported due to incomplete data
+CT,CT,2015,January,Heroin (T40.1),298,299,100,0.009926872,
+CT,CT,2015,February,Heroin (T40.1),302,303,100,0.009885004,
+CT,CT,2015,March,Heroin (T40.1),294,295,100,0.009837033,
+CT,CT,2015,April,Heroin (T40.1),306,307,100,0.009858368,
+CT,CT,2015,May,Heroin (T40.1),306,307,100,0.0131419,
+CT,CT,2015,June,Heroin (T40.1),309,310,100,0.013111315,
+CT,CT,2015,July,Heroin (T40.1),338,340,100,0.016333464,
+CT,CT,2015,August,Heroin (T40.1),341,343,100,0.016367148,
+CT,CT,2015,September,Heroin (T40.1),353,355,100,0.019636078,
+CT,CT,2015,October,Heroin (T40.1),368,370,100,0.016331863,
+CT,CT,2015,November,Heroin (T40.1),382,384,100,0.019511561,
+CT,CT,2015,December,Heroin (T40.1),394,396,100,0.016339869,
+CT,CT,2016,January,Heroin (T40.1),403,405,100,0.0164647,
+CT,CT,2016,February,Heroin (T40.1),410,412,100,0.016539314,
+CT,CT,2016,March,Heroin (T40.1),424,426,100,0.01657715,
+CT,CT,2016,April,Heroin (T40.1),436,438,100,0.016557388,
+CT,CT,2016,May,Heroin (T40.1),454,456,100,0.01324591,
+CT,CT,2016,June,Heroin (T40.1),462,464,100,0.016562873,
+CT,CT,2016,July,Heroin (T40.1),454,456,100,0.013291686,
+CT,CT,2016,August,Heroin (T40.1),461,463,100,0.016580448,
+CT,CT,2016,September,Heroin (T40.1),456,458,100,0.016617921,
+CT,CT,2016,October,Heroin (T40.1),443,445,100,0.016580998,
+CT,CT,2016,November,Heroin (T40.1),451,453,100,0.016504918,
+CT,CT,2016,December,Heroin (T40.1),459,462,100,0.026108808,
+CT,CT,2017,January,Heroin (T40.1),470,469,100,0.025945385,Underreported due to incomplete data
+CT,CT,2017,February,Heroin (T40.1),468,469,100,0.025787319,Underreported due to incomplete data
+CT,CT,2017,March,Heroin (T40.1),476,476,100,0.0257566,Underreported due to incomplete data
+CT,CT,2017,April,Heroin (T40.1),465,464,100,0.025720165,Underreported due to incomplete data
+CT,CT,2017,May,Heroin (T40.1),473,471,100,0.025709419,Underreported due to incomplete data
+CT,CT,2017,June,Heroin (T40.1),474,473,100,0.0224,Underreported due to incomplete data
+CT,CT,2017,July,Heroin (T40.1),474,478,100,0.022330686,Underreported due to incomplete data
+CT,CT,2017,August,Heroin (T40.1),471,476,100,0.019122896,Underreported due to incomplete data
+CT,CT,2017,September,Heroin (T40.1),464,469,100,0.015850372,Underreported due to incomplete data
+CT,CT,2017,October,Heroin (T40.1),458,462,100,0.015866468,Underreported due to incomplete data
+CT,CT,2017,November,Heroin (T40.1),434,437,100,0.019091864,Underreported due to incomplete data
+CT,CT,2017,December,Heroin (T40.1),428,428,100,0.012680298,Underreported due to incomplete data
+CT,CT,2018,January,Heroin (T40.1),405,408,100,0.081897502,Underreported due to incomplete data
+CT,CT,2018,February,Heroin (T40.1),395,405,100,0.158378207,Underreported due to incomplete data
+CT,CT,2018,March,Heroin (T40.1),393,405,100,0.196650596,Underreported due to incomplete data
+CT,CT,2018,April,Heroin (T40.1),391,405,100,0.231364097,Underreported due to incomplete data
+CT,CT,2015,January,Methadone (T40.3),58,59,100,0.009926872,
+CT,CT,2015,February,Methadone (T40.3),54,55,100,0.009885004,
+CT,CT,2015,March,Methadone (T40.3),57,58,100,0.009837033,
+CT,CT,2015,April,Methadone (T40.3),57,58,100,0.009858368,
+CT,CT,2015,May,Methadone (T40.3),58,59,100,0.0131419,
+CT,CT,2015,June,Methadone (T40.3),62,63,100,0.013111315,
+CT,CT,2015,July,Methadone (T40.3),74,75,100,0.016333464,
+CT,CT,2015,August,Methadone (T40.3),76,77,100,0.016367148,
+CT,CT,2015,September,Methadone (T40.3),76,77,100,0.019636078,
+CT,CT,2015,October,Methadone (T40.3),75,76,100,0.016331863,
+CT,CT,2015,November,Methadone (T40.3),77,78,100,0.019511561,
+CT,CT,2015,December,Methadone (T40.3),73,74,100,0.016339869,
+CT,CT,2016,January,Methadone (T40.3),72,73,100,0.0164647,
+CT,CT,2016,February,Methadone (T40.3),72,73,100,0.016539314,
+CT,CT,2016,March,Methadone (T40.3),71,72,100,0.01657715,
+CT,CT,2016,April,Methadone (T40.3),73,74,100,0.016557388,
+CT,CT,2016,May,Methadone (T40.3),74,75,100,0.01324591,
+CT,CT,2016,June,Methadone (T40.3),72,73,100,0.016562873,
+CT,CT,2016,July,Methadone (T40.3),62,63,100,0.013291686,
+CT,CT,2016,August,Methadone (T40.3),64,65,100,0.016580448,
+CT,CT,2016,September,Methadone (T40.3),65,66,100,0.016617921,
+CT,CT,2016,October,Methadone (T40.3),66,67,100,0.016580998,
+CT,CT,2016,November,Methadone (T40.3),68,69,100,0.016504918,
+CT,CT,2016,December,Methadone (T40.3),71,72,100,0.026108808,
+CT,CT,2017,January,Methadone (T40.3),67,67,100,0.025945385,Underreported due to incomplete data
+CT,CT,2017,February,Methadone (T40.3),70,71,100,0.025787319,Underreported due to incomplete data
+CT,CT,2017,March,Methadone (T40.3),73,74,100,0.0257566,Underreported due to incomplete data
+CT,CT,2017,April,Methadone (T40.3),78,79,100,0.025720165,Underreported due to incomplete data
+CT,CT,2017,May,Methadone (T40.3),81,82,100,0.025709419,Underreported due to incomplete data
+CT,CT,2017,June,Methadone (T40.3),85,85,100,0.0224,Underreported due to incomplete data
+CT,CT,2017,July,Methadone (T40.3),87,88,100,0.022330686,Underreported due to incomplete data
+CT,CT,2017,August,Methadone (T40.3),87,88,100,0.019122896,Underreported due to incomplete data
+CT,CT,2017,September,Methadone (T40.3),81,82,100,0.015850372,Underreported due to incomplete data
+CT,CT,2017,October,Methadone (T40.3),83,84,100,0.015866468,Underreported due to incomplete data
+CT,CT,2017,November,Methadone (T40.3),90,91,100,0.019091864,Underreported due to incomplete data
+CT,CT,2017,December,Methadone (T40.3),95,95,100,0.012680298,Underreported due to incomplete data
+CT,CT,2018,January,Methadone (T40.3),97,99,100,0.081897502,Underreported due to incomplete data
+CT,CT,2018,February,Methadone (T40.3),93,96,100,0.158378207,Underreported due to incomplete data
+CT,CT,2018,March,Methadone (T40.3),94,98,100,0.196650596,Underreported due to incomplete data
+CT,CT,2018,April,Methadone (T40.3),88,93,100,0.231364097,Underreported due to incomplete data
+CT,CT,2015,January,Natural & semi-synthetic opioids (T40.2),170,172,100,0.009926872,
+CT,CT,2015,February,Natural & semi-synthetic opioids (T40.2),168,170,100,0.009885004,
+CT,CT,2015,March,Natural & semi-synthetic opioids (T40.2),174,176,100,0.009837033,
+CT,CT,2015,April,Natural & semi-synthetic opioids (T40.2),164,166,100,0.009858368,
+CT,CT,2015,May,Natural & semi-synthetic opioids (T40.2),166,168,100,0.0131419,
+CT,CT,2015,June,Natural & semi-synthetic opioids (T40.2),174,176,100,0.013111315,
+CT,CT,2015,July,Natural & semi-synthetic opioids (T40.2),183,185,100,0.016333464,
+CT,CT,2015,August,Natural & semi-synthetic opioids (T40.2),177,179,100,0.016367148,
+CT,CT,2015,September,Natural & semi-synthetic opioids (T40.2),181,183,100,0.019636078,
+CT,CT,2015,October,Natural & semi-synthetic opioids (T40.2),184,186,100,0.016331863,
+CT,CT,2015,November,Natural & semi-synthetic opioids (T40.2),188,190,100,0.019511561,
+CT,CT,2015,December,Natural & semi-synthetic opioids (T40.2),182,184,100,0.016339869,
+CT,CT,2016,January,Natural & semi-synthetic opioids (T40.2),180,182,100,0.0164647,
+CT,CT,2016,February,Natural & semi-synthetic opioids (T40.2),184,186,100,0.016539314,
+CT,CT,2016,March,Natural & semi-synthetic opioids (T40.2),177,179,100,0.01657715,
+CT,CT,2016,April,Natural & semi-synthetic opioids (T40.2),188,190,100,0.016557388,
+CT,CT,2016,May,Natural & semi-synthetic opioids (T40.2),186,188,100,0.01324591,
+CT,CT,2016,June,Natural & semi-synthetic opioids (T40.2),188,190,100,0.016562873,
+CT,CT,2016,July,Natural & semi-synthetic opioids (T40.2),183,185,100,0.013291686,
+CT,CT,2016,August,Natural & semi-synthetic opioids (T40.2),192,194,100,0.016580448,
+CT,CT,2016,September,Natural & semi-synthetic opioids (T40.2),192,194,100,0.016617921,
+CT,CT,2016,October,Natural & semi-synthetic opioids (T40.2),195,197,100,0.016580998,
+CT,CT,2016,November,Natural & semi-synthetic opioids (T40.2),201,203,100,0.016504918,
+CT,CT,2016,December,Natural & semi-synthetic opioids (T40.2),214,217,100,0.026108808,
+CT,CT,2017,January,Natural & semi-synthetic opioids (T40.2),209,210,100,0.025945385,Underreported due to incomplete data
+CT,CT,2017,February,Natural & semi-synthetic opioids (T40.2),205,207,100,0.025787319,Underreported due to incomplete data
+CT,CT,2017,March,Natural & semi-synthetic opioids (T40.2),214,216,100,0.0257566,Underreported due to incomplete data
+CT,CT,2017,April,Natural & semi-synthetic opioids (T40.2),209,211,100,0.025720165,Underreported due to incomplete data
+CT,CT,2017,May,Natural & semi-synthetic opioids (T40.2),224,225,100,0.025709419,Underreported due to incomplete data
+CT,CT,2017,June,Natural & semi-synthetic opioids (T40.2),217,219,100,0.0224,Underreported due to incomplete data
+CT,CT,2017,July,Natural & semi-synthetic opioids (T40.2),220,223,100,0.022330686,Underreported due to incomplete data
+CT,CT,2017,August,Natural & semi-synthetic opioids (T40.2),214,218,100,0.019122896,Underreported due to incomplete data
+CT,CT,2017,September,Natural & semi-synthetic opioids (T40.2),211,215,100,0.015850372,Underreported due to incomplete data
+CT,CT,2017,October,Natural & semi-synthetic opioids (T40.2),207,210,100,0.015866468,Underreported due to incomplete data
+CT,CT,2017,November,Natural & semi-synthetic opioids (T40.2),191,193,100,0.019091864,Underreported due to incomplete data
+CT,CT,2017,December,Natural & semi-synthetic opioids (T40.2),186,186,100,0.012680298,Underreported due to incomplete data
+CT,CT,2018,January,Natural & semi-synthetic opioids (T40.2),180,183,100,0.081897502,Underreported due to incomplete data
+CT,CT,2018,February,Natural & semi-synthetic opioids (T40.2),184,191,100,0.158378207,Underreported due to incomplete data
+CT,CT,2018,March,Natural & semi-synthetic opioids (T40.2),175,183,100,0.196650596,Underreported due to incomplete data
+CT,CT,2018,April,Natural & semi-synthetic opioids (T40.2),175,185,100,0.231364097,Underreported due to incomplete data
+CT,CT,2015,January,Number of Deaths,"30,221",,100,0.009926872,
+CT,CT,2015,February,Number of Deaths,"30,349",,100,0.009885004,
+CT,CT,2015,March,Number of Deaths,"30,497",,100,0.009837033,
+CT,CT,2015,April,Number of Deaths,"30,431",,100,0.009858368,
+CT,CT,2015,May,Number of Deaths,"30,437",,100,0.0131419,
+CT,CT,2015,June,Number of Deaths,"30,508",,100,0.013111315,
+CT,CT,2015,July,Number of Deaths,"30,612",,100,0.016333464,
+CT,CT,2015,August,Number of Deaths,"30,549",,100,0.016367148,
+CT,CT,2015,September,Number of Deaths,"30,556",,100,0.019636078,
+CT,CT,2015,October,Number of Deaths,"30,615",,100,0.016331863,
+CT,CT,2015,November,Number of Deaths,"30,751",,100,0.019511561,
+CT,CT,2015,December,Number of Deaths,"30,600",,100,0.016339869,
+CT,CT,2016,January,Number of Deaths,"30,368",,100,0.0164647,
+CT,CT,2016,February,Number of Deaths,"30,231",,100,0.016539314,
+CT,CT,2016,March,Number of Deaths,"30,162",,100,0.01657715,
+CT,CT,2016,April,Number of Deaths,"30,198",,100,0.016557388,
+CT,CT,2016,May,Number of Deaths,"30,198",,100,0.01324591,
+CT,CT,2016,June,Number of Deaths,"30,188",,100,0.016562873,
+CT,CT,2016,July,Number of Deaths,"30,094",,100,0.013291686,
+CT,CT,2016,August,Number of Deaths,"30,156",,100,0.016580448,
+CT,CT,2016,September,Number of Deaths,"30,088",,100,0.016617921,
+CT,CT,2016,October,Number of Deaths,"30,155",,100,0.016580998,
+CT,CT,2016,November,Number of Deaths,"30,294",,100,0.016504918,
+CT,CT,2016,December,Number of Deaths,"30,641",,100,0.026108808,
+CT,CT,2017,January,Number of Deaths,"30,834",,100,0.025945385,Underreported due to incomplete data
+CT,CT,2017,February,Number of Deaths,"31,023",,100,0.025787319,Underreported due to incomplete data
+CT,CT,2017,March,Number of Deaths,"31,060",,100,0.0257566,Underreported due to incomplete data
+CT,CT,2017,April,Number of Deaths,"31,104",,100,0.025720165,Underreported due to incomplete data
+CT,CT,2017,May,Number of Deaths,"31,117",,100,0.025709419,Underreported due to incomplete data
+CT,CT,2017,June,Number of Deaths,"31,250",,100,0.0224,Underreported due to incomplete data
+CT,CT,2017,July,Number of Deaths,"31,347",,100,0.022330686,Underreported due to incomplete data
+CT,CT,2017,August,Number of Deaths,"31,376",,100,0.019122896,Underreported due to incomplete data
+CT,CT,2017,September,Number of Deaths,"31,545",,100,0.015850372,Underreported due to incomplete data
+CT,CT,2017,October,Number of Deaths,"31,513",,100,0.015866468,Underreported due to incomplete data
+CT,CT,2017,November,Number of Deaths,"31,427",,100,0.019091864,Underreported due to incomplete data
+CT,CT,2017,December,Number of Deaths,"31,545",,100,0.012680298,Underreported due to incomplete data
+CT,CT,2018,January,Number of Deaths,"31,747",,100,0.081897502,Underreported due to incomplete data
+CT,CT,2018,February,Number of Deaths,"31,570",,100,0.158378207,Underreported due to incomplete data
+CT,CT,2018,March,Number of Deaths,"31,528",,100,0.196650596,Underreported due to incomplete data
+CT,CT,2018,April,Number of Deaths,"31,552",,100,0.231364097,Underreported due to incomplete data
+CT,CT,2015,January,Number of Drug Overdose Deaths,631,635,100,0.009926872,
+CT,CT,2015,February,Number of Drug Overdose Deaths,633,637,100,0.009885004,
+CT,CT,2015,March,Number of Drug Overdose Deaths,639,643,100,0.009837033,
+CT,CT,2015,April,Number of Drug Overdose Deaths,650,654,100,0.009858368,
+CT,CT,2015,May,Number of Drug Overdose Deaths,652,656,100,0.0131419,
+CT,CT,2015,June,Number of Drug Overdose Deaths,670,674,100,0.013111315,
+CT,CT,2015,July,Number of Drug Overdose Deaths,722,727,100,0.016333464,
+CT,CT,2015,August,Number of Drug Overdose Deaths,728,733,100,0.016367148,
+CT,CT,2015,September,Number of Drug Overdose Deaths,748,754,100,0.019636078,
+CT,CT,2015,October,Number of Drug Overdose Deaths,779,784,100,0.016331863,
+CT,CT,2015,November,Number of Drug Overdose Deaths,800,806,100,0.019511561,
+CT,CT,2015,December,Number of Drug Overdose Deaths,799,804,100,0.016339869,
+CT,CT,2016,January,Number of Drug Overdose Deaths,824,830,100,0.0164647,
+CT,CT,2016,February,Number of Drug Overdose Deaths,836,842,100,0.016539314,
+CT,CT,2016,March,Number of Drug Overdose Deaths,849,855,100,0.01657715,
+CT,CT,2016,April,Number of Drug Overdose Deaths,869,875,100,0.016557388,
+CT,CT,2016,May,Number of Drug Overdose Deaths,895,901,100,0.01324591,
+CT,CT,2016,June,Number of Drug Overdose Deaths,909,915,100,0.016562873,
+CT,CT,2016,July,Number of Drug Overdose Deaths,906,912,100,0.013291686,
+CT,CT,2016,August,Number of Drug Overdose Deaths,928,934,100,0.016580448,
+CT,CT,2016,September,Number of Drug Overdose Deaths,929,935,100,0.016617921,
+CT,CT,2016,October,Number of Drug Overdose Deaths,918,924,100,0.016580998,
+CT,CT,2016,November,Number of Drug Overdose Deaths,939,945,100,0.016504918,
+CT,CT,2016,December,Number of Drug Overdose Deaths,974,982,100,0.026108808,
+CT,CT,2017,January,Number of Drug Overdose Deaths,985,985,100,0.025945385,Underreported due to incomplete data
+CT,CT,2017,February,Number of Drug Overdose Deaths,994,998,100,0.025787319,Underreported due to incomplete data
+CT,CT,2017,March,Number of Drug Overdose Deaths,"1,019","1,023",100,0.0257566,Underreported due to incomplete data
+CT,CT,2017,April,Number of Drug Overdose Deaths,"1,018","1,023",100,0.025720165,Underreported due to incomplete data
+CT,CT,2017,May,Number of Drug Overdose Deaths,"1,046","1,051",100,0.025709419,Underreported due to incomplete data
+CT,CT,2017,June,Number of Drug Overdose Deaths,"1,056","1,064",100,0.0224,Underreported due to incomplete data
+CT,CT,2017,July,Number of Drug Overdose Deaths,"1,074","1,085",100,0.022330686,Underreported due to incomplete data
+CT,CT,2017,August,Number of Drug Overdose Deaths,"1,081","1,096",100,0.019122896,Underreported due to incomplete data
+CT,CT,2017,September,Number of Drug Overdose Deaths,"1,083","1,096",100,0.015850372,Underreported due to incomplete data
+CT,CT,2017,October,Number of Drug Overdose Deaths,"1,092","1,103",100,0.015866468,Underreported due to incomplete data
+CT,CT,2017,November,Number of Drug Overdose Deaths,"1,066","1,074",100,0.019091864,Underreported due to incomplete data
+CT,CT,2017,December,Number of Drug Overdose Deaths,"1,080","1,080",100,0.012680298,Underreported due to incomplete data
+CT,CT,2018,January,Number of Drug Overdose Deaths,"1,047","1,057",100,0.081897502,Underreported due to incomplete data
+CT,CT,2018,February,Number of Drug Overdose Deaths,"1,044","1,072",100,0.158378207,Underreported due to incomplete data
+CT,CT,2018,March,Number of Drug Overdose Deaths,"1,049","1,084",100,0.196650596,Underreported due to incomplete data
+CT,CT,2018,April,Number of Drug Overdose Deaths,"1,046","1,089",100,0.231364097,Underreported due to incomplete data
+CT,CT,2015,January,"Opioids (T40.0-T40.4,T40.6)",532,536,100,0.009926872,
+CT,CT,2015,February,"Opioids (T40.0-T40.4,T40.6)",530,534,100,0.009885004,
+CT,CT,2015,March,"Opioids (T40.0-T40.4,T40.6)",536,540,100,0.009837033,
+CT,CT,2015,April,"Opioids (T40.0-T40.4,T40.6)",550,554,100,0.009858368,
+CT,CT,2015,May,"Opioids (T40.0-T40.4,T40.6)",553,557,100,0.0131419,
+CT,CT,2015,June,"Opioids (T40.0-T40.4,T40.6)",567,571,100,0.013111315,
+CT,CT,2015,July,"Opioids (T40.0-T40.4,T40.6)",616,621,100,0.016333464,
+CT,CT,2015,August,"Opioids (T40.0-T40.4,T40.6)",618,623,100,0.016367148,
+CT,CT,2015,September,"Opioids (T40.0-T40.4,T40.6)",633,638,100,0.019636078,
+CT,CT,2015,October,"Opioids (T40.0-T40.4,T40.6)",660,665,100,0.016331863,
+CT,CT,2015,November,"Opioids (T40.0-T40.4,T40.6)",683,689,100,0.019511561,
+CT,CT,2015,December,"Opioids (T40.0-T40.4,T40.6)",686,691,100,0.016339869,
+CT,CT,2016,January,"Opioids (T40.0-T40.4,T40.6)",711,716,100,0.0164647,
+CT,CT,2016,February,"Opioids (T40.0-T40.4,T40.6)",731,737,100,0.016539314,
+CT,CT,2016,March,"Opioids (T40.0-T40.4,T40.6)",741,747,100,0.01657715,
+CT,CT,2016,April,"Opioids (T40.0-T40.4,T40.6)",766,772,100,0.016557388,
+CT,CT,2016,May,"Opioids (T40.0-T40.4,T40.6)",795,801,100,0.01324591,
+CT,CT,2016,June,"Opioids (T40.0-T40.4,T40.6)",810,816,100,0.016562873,
+CT,CT,2016,July,"Opioids (T40.0-T40.4,T40.6)",800,806,100,0.013291686,
+CT,CT,2016,August,"Opioids (T40.0-T40.4,T40.6)",825,831,100,0.016580448,
+CT,CT,2016,September,"Opioids (T40.0-T40.4,T40.6)",832,838,100,0.016617921,
+CT,CT,2016,October,"Opioids (T40.0-T40.4,T40.6)",814,820,100,0.016580998,
+CT,CT,2016,November,"Opioids (T40.0-T40.4,T40.6)",834,840,100,0.016504918,
+CT,CT,2016,December,"Opioids (T40.0-T40.4,T40.6)",869,877,100,0.026108808,
+CT,CT,2017,January,"Opioids (T40.0-T40.4,T40.6)",874,875,100,0.025945385,Underreported due to incomplete data
+CT,CT,2017,February,"Opioids (T40.0-T40.4,T40.6)",878,882,100,0.025787319,Underreported due to incomplete data
+CT,CT,2017,March,"Opioids (T40.0-T40.4,T40.6)",905,909,100,0.0257566,Underreported due to incomplete data
+CT,CT,2017,April,"Opioids (T40.0-T40.4,T40.6)",903,907,100,0.025720165,Underreported due to incomplete data
+CT,CT,2017,May,"Opioids (T40.0-T40.4,T40.6)",926,930,100,0.025709419,Underreported due to incomplete data
+CT,CT,2017,June,"Opioids (T40.0-T40.4,T40.6)",940,947,100,0.0224,Underreported due to incomplete data
+CT,CT,2017,July,"Opioids (T40.0-T40.4,T40.6)",965,977,100,0.022330686,Underreported due to incomplete data
+CT,CT,2017,August,"Opioids (T40.0-T40.4,T40.6)",968,982,100,0.019122896,Underreported due to incomplete data
+CT,CT,2017,September,"Opioids (T40.0-T40.4,T40.6)",967,980,100,0.015850372,Underreported due to incomplete data
+CT,CT,2017,October,"Opioids (T40.0-T40.4,T40.6)",979,990,100,0.015866468,Underreported due to incomplete data
+CT,CT,2017,November,"Opioids (T40.0-T40.4,T40.6)",959,968,100,0.019091864,Underreported due to incomplete data
+CT,CT,2017,December,"Opioids (T40.0-T40.4,T40.6)",967,968,100,0.012680298,Underreported due to incomplete data
+CT,CT,2018,January,"Opioids (T40.0-T40.4,T40.6)",939,949,100,0.081897502,Underreported due to incomplete data
+CT,CT,2018,February,"Opioids (T40.0-T40.4,T40.6)",940,967,100,0.158378207,Underreported due to incomplete data
+CT,CT,2018,March,"Opioids (T40.0-T40.4,T40.6)",946,980,100,0.196650596,Underreported due to incomplete data
+CT,CT,2018,April,"Opioids (T40.0-T40.4,T40.6)",941,982,100,0.231364097,Underreported due to incomplete data
+CT,CT,2015,January,Percent with drugs specified,99.52456418,,100,0.009926872,
+CT,CT,2015,February,Percent with drugs specified,99.68404423,,100,0.009885004,
+CT,CT,2015,March,Percent with drugs specified,99.68701095,,100,0.009837033,
+CT,CT,2015,April,Percent with drugs specified,99.69230769,,100,0.009858368,
+CT,CT,2015,May,Percent with drugs specified,99.69325153,,100,0.0131419,
+CT,CT,2015,June,Percent with drugs specified,99.85074627,,100,0.013111315,
+CT,CT,2015,July,Percent with drugs specified,99.86149584,,100,0.016333464,
+CT,CT,2015,August,Percent with drugs specified,100,,100,0.016367148,
+CT,CT,2015,September,Percent with drugs specified,99.86631016,,100,0.019636078,
+CT,CT,2015,October,Percent with drugs specified,99.8716303,,100,0.016331863,
+CT,CT,2015,November,Percent with drugs specified,99.875,,100,0.019511561,
+CT,CT,2015,December,Percent with drugs specified,99.74968711,,100,0.016339869,
+CT,CT,2016,January,Percent with drugs specified,99.75728155,,100,0.0164647,
+CT,CT,2016,February,Percent with drugs specified,99.76076555,,100,0.016539314,
+CT,CT,2016,March,Percent with drugs specified,99.64664311,,100,0.01657715,
+CT,CT,2016,April,Percent with drugs specified,99.6547756,,100,0.016557388,
+CT,CT,2016,May,Percent with drugs specified,99.66480447,,100,0.01324591,
+CT,CT,2016,June,Percent with drugs specified,99.559956,,100,0.016562873,
+CT,CT,2016,July,Percent with drugs specified,99.5584989,,100,0.013291686,
+CT,CT,2016,August,Percent with drugs specified,99.56896552,,100,0.016580448,
+CT,CT,2016,September,Percent with drugs specified,99.67707212,,100,0.016617921,
+CT,CT,2016,October,Percent with drugs specified,99.67320261,,100,0.016580998,
+CT,CT,2016,November,Percent with drugs specified,99.68051118,,100,0.016504918,
+CT,CT,2016,December,Percent with drugs specified,99.79466119,,100,0.026108808,
+CT,CT,2017,January,Percent with drugs specified,99.79695431,,100,0.025945385,Underreported due to incomplete data
+CT,CT,2017,February,Percent with drugs specified,99.79879276,,100,0.025787319,Underreported due to incomplete data
+CT,CT,2017,March,Percent with drugs specified,99.90186457,,100,0.0257566,Underreported due to incomplete data
+CT,CT,2017,April,Percent with drugs specified,99.80353635,,100,0.025720165,Underreported due to incomplete data
+CT,CT,2017,May,Percent with drugs specified,99.80879541,,100,0.025709419,Underreported due to incomplete data
+CT,CT,2017,June,Percent with drugs specified,99.81060606,,100,0.0224,Underreported due to incomplete data
+CT,CT,2017,July,Percent with drugs specified,99.81378026,,100,0.022330686,Underreported due to incomplete data
+CT,CT,2017,August,Percent with drugs specified,99.81498612,,100,0.019122896,Underreported due to incomplete data
+CT,CT,2017,September,Percent with drugs specified,99.81532779,,100,0.015850372,Underreported due to incomplete data
+CT,CT,2017,October,Percent with drugs specified,99.81684982,,100,0.015866468,Underreported due to incomplete data
+CT,CT,2017,November,Percent with drugs specified,99.81238274,,100,0.019091864,Underreported due to incomplete data
+CT,CT,2017,December,Percent with drugs specified,99.81481481,,100,0.012680298,Underreported due to incomplete data
+CT,CT,2018,January,Percent with drugs specified,99.71346705,,100,0.081897502,Underreported due to incomplete data
+CT,CT,2018,February,Percent with drugs specified,99.71264368,,100,0.158378207,Underreported due to incomplete data
+CT,CT,2018,March,Percent with drugs specified,99.71401335,,100,0.196650596,Underreported due to incomplete data
+CT,CT,2018,April,Percent with drugs specified,99.80879541,,100,0.231364097,Underreported due to incomplete data
+CT,CT,2015,January,Psychostimulants with abuse potential (T43.6),18,19,100,0.009926872,
+CT,CT,2015,February,Psychostimulants with abuse potential (T43.6),16,17,100,0.009885004,
+CT,CT,2015,March,Psychostimulants with abuse potential (T43.6),13,14,100,0.009837033,
+CT,CT,2015,April,Psychostimulants with abuse potential (T43.6),13,14,100,0.009858368,
+CT,CT,2015,May,Psychostimulants with abuse potential (T43.6),14,15,100,0.0131419,
+CT,CT,2015,June,Psychostimulants with abuse potential (T43.6),14,15,100,0.013111315,
+CT,CT,2015,July,Psychostimulants with abuse potential (T43.6),17,18,100,0.016333464,
+CT,CT,2015,August,Psychostimulants with abuse potential (T43.6),18,19,100,0.016367148,
+CT,CT,2015,September,Psychostimulants with abuse potential (T43.6),18,19,100,0.019636078,
+CT,CT,2015,October,Psychostimulants with abuse potential (T43.6),20,21,100,0.016331863,
+CT,CT,2015,November,Psychostimulants with abuse potential (T43.6),22,23,100,0.019511561,
+CT,CT,2015,December,Psychostimulants with abuse potential (T43.6),23,24,100,0.016339869,
+CT,CT,2016,January,Psychostimulants with abuse potential (T43.6),24,25,100,0.0164647,
+CT,CT,2016,February,Psychostimulants with abuse potential (T43.6),25,26,100,0.016539314,
+CT,CT,2016,March,Psychostimulants with abuse potential (T43.6),26,27,100,0.01657715,
+CT,CT,2016,April,Psychostimulants with abuse potential (T43.6),26,27,100,0.016557388,
+CT,CT,2016,May,Psychostimulants with abuse potential (T43.6),24,25,100,0.01324591,
+CT,CT,2016,June,Psychostimulants with abuse potential (T43.6),23,24,100,0.016562873,
+CT,CT,2016,July,Psychostimulants with abuse potential (T43.6),21,22,100,0.013291686,
+CT,CT,2016,August,Psychostimulants with abuse potential (T43.6),25,26,100,0.016580448,
+CT,CT,2016,September,Psychostimulants with abuse potential (T43.6),25,26,100,0.016617921,
+CT,CT,2016,October,Psychostimulants with abuse potential (T43.6),26,27,100,0.016580998,
+CT,CT,2016,November,Psychostimulants with abuse potential (T43.6),24,25,100,0.016504918,
+CT,CT,2016,December,Psychostimulants with abuse potential (T43.6),22,23,100,0.026108808,
+CT,CT,2017,January,Psychostimulants with abuse potential (T43.6),23,24,100,0.025945385,Underreported due to incomplete data
+CT,CT,2017,February,Psychostimulants with abuse potential (T43.6),26,27,100,0.025787319,Underreported due to incomplete data
+CT,CT,2017,March,Psychostimulants with abuse potential (T43.6),29,30,100,0.0257566,Underreported due to incomplete data
+CT,CT,2017,April,Psychostimulants with abuse potential (T43.6),28,29,100,0.025720165,Underreported due to incomplete data
+CT,CT,2017,May,Psychostimulants with abuse potential (T43.6),30,31,100,0.025709419,Underreported due to incomplete data
+CT,CT,2017,June,Psychostimulants with abuse potential (T43.6),31,32,100,0.0224,Underreported due to incomplete data
+CT,CT,2017,July,Psychostimulants with abuse potential (T43.6),34,35,100,0.022330686,Underreported due to incomplete data
+CT,CT,2017,August,Psychostimulants with abuse potential (T43.6),29,30,100,0.019122896,Underreported due to incomplete data
+CT,CT,2017,September,Psychostimulants with abuse potential (T43.6),31,32,100,0.015850372,Underreported due to incomplete data
+CT,CT,2017,October,Psychostimulants with abuse potential (T43.6),31,32,100,0.015866468,Underreported due to incomplete data
+CT,CT,2017,November,Psychostimulants with abuse potential (T43.6),35,36,100,0.019091864,Underreported due to incomplete data
+CT,CT,2017,December,Psychostimulants with abuse potential (T43.6),39,40,100,0.012680298,Underreported due to incomplete data
+CT,CT,2018,January,Psychostimulants with abuse potential (T43.6),39,40,100,0.081897502,Underreported due to incomplete data
+CT,CT,2018,February,Psychostimulants with abuse potential (T43.6),36,38,100,0.158378207,Underreported due to incomplete data
+CT,CT,2018,March,Psychostimulants with abuse potential (T43.6),38,40,100,0.196650596,Underreported due to incomplete data
+CT,CT,2018,April,Psychostimulants with abuse potential (T43.6),44,47,100,0.231364097,Underreported due to incomplete data
+CT,CT,2015,January,"Synthetic opioids, excl. methadone (T40.4)",96,97,100,0.009926872,
+CT,CT,2015,February,"Synthetic opioids, excl. methadone (T40.4)",97,98,100,0.009885004,
+CT,CT,2015,March,"Synthetic opioids, excl. methadone (T40.4)",103,105,100,0.009837033,
+CT,CT,2015,April,"Synthetic opioids, excl. methadone (T40.4)",121,123,100,0.009858368,
+CT,CT,2015,May,"Synthetic opioids, excl. methadone (T40.4)",123,125,100,0.0131419,
+CT,CT,2015,June,"Synthetic opioids, excl. methadone (T40.4)",123,125,100,0.013111315,
+CT,CT,2015,July,"Synthetic opioids, excl. methadone (T40.4)",146,148,100,0.016333464,
+CT,CT,2015,August,"Synthetic opioids, excl. methadone (T40.4)",152,154,100,0.016367148,
+CT,CT,2015,September,"Synthetic opioids, excl. methadone (T40.4)",161,163,100,0.019636078,
+CT,CT,2015,October,"Synthetic opioids, excl. methadone (T40.4)",192,195,100,0.016331863,
+CT,CT,2015,November,"Synthetic opioids, excl. methadone (T40.4)",217,220,100,0.019511561,
+CT,CT,2015,December,"Synthetic opioids, excl. methadone (T40.4)",214,217,100,0.016339869,
+CT,CT,2016,January,"Synthetic opioids, excl. methadone (T40.4)",240,243,100,0.0164647,
+CT,CT,2016,February,"Synthetic opioids, excl. methadone (T40.4)",258,261,100,0.016539314,
+CT,CT,2016,March,"Synthetic opioids, excl. methadone (T40.4)",273,277,100,0.01657715,
+CT,CT,2016,April,"Synthetic opioids, excl. methadone (T40.4)",295,299,100,0.016557388,
+CT,CT,2016,May,"Synthetic opioids, excl. methadone (T40.4)",331,335,100,0.01324591,
+CT,CT,2016,June,"Synthetic opioids, excl. methadone (T40.4)",369,374,100,0.016562873,
+CT,CT,2016,July,"Synthetic opioids, excl. methadone (T40.4)",387,392,100,0.013291686,
+CT,CT,2016,August,"Synthetic opioids, excl. methadone (T40.4)",421,426,100,0.016580448,
+CT,CT,2016,September,"Synthetic opioids, excl. methadone (T40.4)",443,448,100,0.016617921,
+CT,CT,2016,October,"Synthetic opioids, excl. methadone (T40.4)",438,443,100,0.016580998,
+CT,CT,2016,November,"Synthetic opioids, excl. methadone (T40.4)",461,467,100,0.016504918,
+CT,CT,2016,December,"Synthetic opioids, excl. methadone (T40.4)",508,515,100,0.026108808,
+CT,CT,2017,January,"Synthetic opioids, excl. methadone (T40.4)",527,528,100,0.025945385,Underreported due to incomplete data
+CT,CT,2017,February,"Synthetic opioids, excl. methadone (T40.4)",545,548,100,0.025787319,Underreported due to incomplete data
+CT,CT,2017,March,"Synthetic opioids, excl. methadone (T40.4)",576,580,100,0.0257566,Underreported due to incomplete data
+CT,CT,2017,April,"Synthetic opioids, excl. methadone (T40.4)",581,587,100,0.025720165,Underreported due to incomplete data
+CT,CT,2017,May,"Synthetic opioids, excl. methadone (T40.4)",601,610,100,0.025709419,Underreported due to incomplete data
+CT,CT,2017,June,"Synthetic opioids, excl. methadone (T40.4)",610,623,100,0.0224,Underreported due to incomplete data
+CT,CT,2017,July,"Synthetic opioids, excl. methadone (T40.4)",641,656,100,0.022330686,Underreported due to incomplete data
+CT,CT,2017,August,"Synthetic opioids, excl. methadone (T40.4)",648,661,100,0.019122896,Underreported due to incomplete data
+CT,CT,2017,September,"Synthetic opioids, excl. methadone (T40.4)",654,666,100,0.015850372,Underreported due to incomplete data
+CT,CT,2017,October,"Synthetic opioids, excl. methadone (T40.4)",675,685,100,0.015866468,Underreported due to incomplete data
+CT,CT,2017,November,"Synthetic opioids, excl. methadone (T40.4)",677,685,100,0.019091864,Underreported due to incomplete data
+CT,CT,2017,December,"Synthetic opioids, excl. methadone (T40.4)",696,697,100,0.012680298,Underreported due to incomplete data
+CT,CT,2018,January,"Synthetic opioids, excl. methadone (T40.4)",682,690,100,0.081897502,Underreported due to incomplete data
+CT,CT,2018,February,"Synthetic opioids, excl. methadone (T40.4)",685,706,100,0.158378207,Underreported due to incomplete data
+CT,CT,2018,March,"Synthetic opioids, excl. methadone (T40.4)",696,725,100,0.196650596,Underreported due to incomplete data
+CT,CT,2018,April,"Synthetic opioids, excl. methadone (T40.4)",704,741,100,0.231364097,Underreported due to incomplete data
