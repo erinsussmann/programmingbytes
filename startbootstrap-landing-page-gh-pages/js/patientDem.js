@@ -13,11 +13,6 @@ var labelArc = d3.arc()
     .outerRadius(radius - 50)
     .innerRadius(radius - 50);
 
-//pie generator
-var pie = d3.pie()
-    .sort(null)
-    .value(function(d) { return d.Percent; });
-
 //defin svg
 var svg = d3.select("body").append("svg")
     .attr("width", width)
@@ -26,8 +21,13 @@ var svg = d3.select("body").append("svg")
     .attr("transform", "translate(" + width/2 + "," + height/2 + ")");
 
 //import data
-d3.csv("2017_Patient_Demographic_Environment.csv", function(error, data) {
-    if(error) throw error;
+d3.csv("2017_Patient_Demographic_Environment.csv", function(data) {
+    console.log(data[0]); });
+
+    //pie generator
+  var pie = d3.pie()
+        .sort(null)
+        .value(function(d) { return d.Percent; });
 
     //parse the data
     data.forEach(function(d) {
@@ -45,12 +45,3 @@ d3.csv("2017_Patient_Demographic_Environment.csv", function(error, data) {
     g.append("path")
         .attr("d", arc)
         .style("fill", "blue")
-
-//append the text (labels)
-    g.append("text")
-        .attr("transform", function(d) { return "translate(" + labelArc.centroid(d) +
-        ")"; })
-        .attr("dy", "0.35em")
-        .text(function(d) { return d.data.Demographics;} );
-
-})
